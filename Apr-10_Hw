@@ -1,0 +1,9 @@
+Maya has a timeline feature that views the animation of the project that is open. There is a play, pause, next / back keyframe, 
+step forward / back one key frame, and start / end button next to the timeline. Adding frames and deleting frames is easy by typing 
+the amount or sliding the number. There are two boxes on each end of the timeline. The outer boxes is the maximum frames the 
+animation has. The inner boxes are the number of frames that want to view in the timeline. Navigating the timeline also has keyboard 
+shortcuts. You can adjust the speed of animation by setting preferences. You can also adjust the playback preferences. In the playback 
+preferences, you can view the animation in all views when you press space bar, and you can choose to select one view port to play the 
+animation while the other three are stationary. You can adjust playback start and end. Also, you can adjust the animation start and end. 
+The playback preference can loop the animation, loop once, and loop forward and back of the animation. In real time, the human eyes 
+view twenty-four frames per second. In Maya, you can adjust the speed of frames per second.
