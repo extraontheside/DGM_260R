@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
-//Name: robot.ma
-//Last modified: Tue, May 02, 2017 05:15:24 PM
+//Name: robotWalk.ma
+//Last modified: Tue, May 02, 2017 05:15:59 PM
 //Codeset: UTF-8
 requires maya "2017";
 requires -nodeType "aiOptions" -nodeType "aiAOVDriver" -nodeType "aiAOVFilter" "mtoa" "1.3.0.0";
@@ -12561,4 +12561,4 @@ connectAttr "place2dTexture1.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "file1.msg" ":defaultTextureList1.tx" -na;
 connectAttr "Green_Robo_Rabbit.pa" ":characterPartition.st" -na;
-// End of robot.ma
+// End of robotWalk.ma
